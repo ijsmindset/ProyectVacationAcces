@@ -6,6 +6,6 @@ public class Suma{
    int resultado = 0;
 
    resultado = num_uno + num_dos;
-   System.out.println("El valor de tu suma es:" + resultado ); 
+   System.out.println("El valor de tu suma es: " + resultado ); 
  }
 }
