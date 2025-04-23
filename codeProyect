@@ -9,4 +9,3 @@ public class Bienvenida extends JFrame implements ActionListener{
   private JLabel label1, label2, label3;
   private JButton button1;
 
-/*vamos a hacer pruebas*/
