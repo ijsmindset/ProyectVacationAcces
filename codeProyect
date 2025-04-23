@@ -1,7 +1,7 @@
 Bienvenida.java                                  
 import javax.swing.*;
 import java.awt.event.*;
-import java.awt.*;
+import java.awt.*
 
 public class Bienvenida extends JFrame implements ActionListener{ 
 
