@@ -7,6 +7,6 @@ public class Colores{
     System.out.print("\033[36m cielo");
     System.out.print("\033[35mnazareno");
     System.out.print("\033[34m mar");
-
+/* todo los colores para hacer script*/
   }
 }
